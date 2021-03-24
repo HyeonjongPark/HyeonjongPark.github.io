@@ -79,7 +79,7 @@ social:
   - name: Twitter
     icon: twitter
     username: TheBenCentra
-    url: https://twitter.com/TheBenCentra
+    url: ""
     desc: Follow me on Twitter
     share: true
 
@@ -92,15 +92,15 @@ social:
 
   - name: GitHub
     icon: github
-    username: bencentra
-    url: https://github.com/bencentra
+    username: iris_github
+    url: https://github.com/HyeonjongPark
     desc: Fork me on GitHub
     share: false
 
   - name: LinkedIn
     icon: linkedin
-    username: Ben Centra
-    url: https://www.linkedin.com/pub/ben-centra/47/769/60a
+    username: iris_linkendIn
+    url: https://www.linkedin.com/in/hyeon-jong-p-575b9515b/
     desc: Connect with me on LinkedIn
     share: true
 
@@ -120,8 +120,8 @@ social:
 
   - name: Instagram
     icon: instagram
-    username: ""
-    url: ""
+    username: iris_instagram
+    url: https://www.instagram.com/guswhd3885/
     desc: Follow me on Instagram
     share: false
 
