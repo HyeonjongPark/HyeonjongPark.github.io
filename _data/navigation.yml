@@ -1,8 +1,8 @@
 main:
-  - title: "연도별 포스트"
-    url: /year-archive/
   - title: "카테고리"
     url: /categories/
+  - title: "연도별 포스트"
+    url: /year-archive/
   # - title: "Tags"
   #   url: /tags/
   # - title: "About"
