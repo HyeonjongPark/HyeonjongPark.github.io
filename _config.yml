@@ -98,7 +98,7 @@ author:
   avatar           : "/assets/logo_iris.PNG"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Without haste, but Without rest"
   location         : "Seoul S.Korea"
-  # email            : "guswhd9844@gmail.com"
+  email            : "guswhd9844@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
