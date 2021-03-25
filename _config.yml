@@ -96,14 +96,14 @@ analytics:
 author:
   name             : "HyeonjongPark"
   avatar           : "/assets/logo_iris.PNG"  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Without haste, but Without rest (guswhd9844@gmail.com)"
+  bio              : "Without haste, but Without rest"
   location         : "Seoul S.Korea"
-  email            : ""
+  # email            : "guswhd9844@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:guswhd9844@email.com
-    - label: "Website"
+    - label: "Linked-In"
       icon: "fas fa-fw fa-link"
       url: "https://www.linkedin.com/in/hyeon-jong-p-575b9515b/"
     - label: "Twitter"
@@ -125,6 +125,9 @@ footer:
     - label: "Email"
       icon: "fab fa-fw fa-envelope-square"
       url: mailto:guswhd9844@email.com
+    - label: "Linked-In"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/hyeon-jong-p-575b9515b/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
